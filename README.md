@@ -1,0 +1,1 @@
+A simple JavaFX app to convert input temperature from Celsius to Fahrenheit and vice versa.
